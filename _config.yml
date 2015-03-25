@@ -14,10 +14,10 @@ baseurl: http://stat4701.github.io/edav
 title : EDAV
 tagline: Exploratory Data Analysis and Visualization
 author :
-  name : Michael Malecki
-  email : malecki@gmail.com
-  github : malecki
-  twitter : mike_malecki
+  name : Erin Grand
+  email : eringrand@gmail.com
+  github : eringrand
+  twitter : astroeringrand
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
