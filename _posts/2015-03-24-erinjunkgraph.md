@@ -93,7 +93,7 @@ I separated out the each of the molecules and sources into a table of spectra.
 This un-clutters the plot and allows you to more easily visualize trends in the sources. 
 (Notice how the plots is missing axes labels - shame on me!) 
 
-{% include image.html url="{{site.baseurl}}/assets/erinsimages/spectra2.png" description="Velocity spectra for the pillars show brightness temperature against velocity in km/s. The spectra were taken in the heads of the pillars at the peak brightness and averaged over a beam size." %}
+{% include image.html url="{{ site.baseurl }}/assets/erinsimages/spectra2.png" description="Velocity spectra for the pillars show brightness temperature against velocity in km/s. The spectra were taken in the heads of the pillars at the peak brightness and averaged over a beam size." %}
 
 The code for this plot was done in IDL - a language mostly used only by astronomers (after looking at the code, you'll see why no one else joined in the fun...)
 If you're interested, you can check it out [here](https://github.com/eringrand/idlcodes/blob/master/plotspectra.pro).
