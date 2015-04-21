@@ -16,13 +16,29 @@ tags: slides
 
 # Introduction 
 
-1. Re-situate, review, critique
+1. 
 1. Lightning demo
 1. Presentation plans
 1. Project plans
 1. Git/github/Rmd trauma triage
 
 </section>
+
+
+
+section>
+
+# Data Sources 
+
+1. [NYC OpenData SAT Scores 2012](https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4)
+1. [NYC OpenData DOE High School Directory 2014-2015](https://data.cityofnewyork.us/Education/DOE-High-School-Directory-2014-2015/n3p6-zve2)
+1. [Income by ZipCode](http://zipatlas.com/us/city-comparison/median-household-income.html)
+1. [Income by Neighborhood](http://furmancenter.org/research/sonychan/2013-state-of-new-york-citys-housing-and-neighborhoods-report)
+1. Class Sizes 2010-2011
+1. School Safety Report
+
+</section>
+
 
 <section>
 ## Presentations
