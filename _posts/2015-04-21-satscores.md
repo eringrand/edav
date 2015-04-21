@@ -17,10 +17,21 @@ tags: slides
 # Introduction 
 
 1. 
-1. Lightning demo
-1. Presentation plans
-1. Project plans
-1. Git/github/Rmd trauma triage
+1. 
+1. 
+
+</section>
+
+
+<section>
+
+# Goals
+1. Visualizing Poverty and other SES metrics with Scholastic Performance Standards
+
+## Questions to Answer: 
+1. Is there a correlation between SAT scores and other school information?
+1. How do the school's performance map with poverty and income in New York City?
+1. Can we tell which schools are speciality schools in the map?
 
 </section>
 
@@ -43,7 +54,7 @@ tags: slides
 <section>
 ## Presentations
 
-_In which you are the expert on some block of material. They may be joint or individual._
+_This is in italics_
 
 1. What do we need to know before we start?
 1. Demo the basics
