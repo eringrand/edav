@@ -7,7 +7,7 @@ tags: slides
 
 <section>
 
-# SAT Scores for the High Schools in New York City
+# SAT Scores for High Schools in New York City
 _[Link to the our preoject repositiory](https://github.com/eringrand/edavproj)_
 </section>
 
@@ -16,8 +16,9 @@ _[Link to the our preoject repositiory](https://github.com/eringrand/edavproj)_
 
 # Introduction 
 
-1. 
-1. 
+1. What are our goals?  What questions would we like to answer? 
+1. Where did we get our data? What are the problems with our data?
+2. What parts of the did were interesting?
 1. 
 
 </section>
@@ -26,8 +27,12 @@ _[Link to the our preoject repositiory](https://github.com/eringrand/edavproj)_
 <section>
 
 ### Goals
-1. Visualizing Poverty and other SES metrics with Scholastic Performance Standards
+1. Visualizing poverty and other SES metrics with Scholastic Performance Standards.
+1. Discover and display any correlations between assement data and community information. 
 
+</section>
+
+<section>
 ### Questions to Answer: 
 1. Is there a correlation between SAT scores and other school information?
 1. How do the school's performance map with poverty and income in New York City?
@@ -51,6 +56,14 @@ _[Link to the our preoject repositiory](https://github.com/eringrand/edavproj)_
 
 </section>
 
+<section>
+## Problems / Issues / Concerns
+
+1. _Missing data:_ We loose a lot of data from schools that didn't report their scores.
+1. _Time:_ The data we're using come from vastly different years. 
+1. __ : 
+
+</section>
 
 <section>
 ## Data Columns
@@ -74,14 +87,7 @@ _Pulled some variables that we thought might be important._
 
 
 
-<section>
-## Problems / Issues / Concerns
 
-1. _Missing data:_ We loose a lot of data from schools that didn't report their scores.
-1. _Time:_ The data we're using come from vastly different years. 
-1. __ : 
-
-</section>
 
 <section>
 ## Tools
