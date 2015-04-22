@@ -1,7 +1,7 @@
 ---
 layout: pres
 title: SAT Scores for the High Schools in New York City
-description: Introduction & Overview
+description: Erin, Maura, Stephen, Xu and Casey's final project. 
 tags: slides
 ---
 
@@ -16,15 +16,16 @@ _[Link to the our preoject repositiory](https://github.com/eringrand/edavproj)_
 
 # The plan:  
 
-1. What are our goals?  What questions would we like to answer? 
+1. What were our goals?  What questions did we seek to answer? 
 1. Where did we get our data? What are the problems with our data?
 1. What parts of the data were interesting?
-1. Some code Demonstration
+1. Some code Demonstration.
 1. Discussion of our results. 
 
 </section>
 
 
+<section>
 <section>
 
 ### Goals
@@ -40,10 +41,11 @@ _[Link to the our preoject repositiory](https://github.com/eringrand/edavproj)_
 1. Can we tell which schools are speciality schools on the map?
 
 </section>
+</section>
+
 
 
 <section>
-
 <section>
 
 # Data Sources 
