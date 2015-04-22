@@ -14,12 +14,13 @@ _[Link to the our preoject repositiory](https://github.com/eringrand/edavproj)_
 
 <section>
 
-# Introduction 
+# The plan:  
 
 1. What are our goals?  What questions would we like to answer? 
 1. Where did we get our data? What are the problems with our data?
-2. What parts of the did were interesting?
-1. 
+1. What parts of the data were interesting?
+1. Some code Demonstration
+1. Discussion of our results. 
 
 </section>
 
@@ -41,6 +42,7 @@ _[Link to the our preoject repositiory](https://github.com/eringrand/edavproj)_
 </section>
 
 
+<section>
 
 <section>
 
@@ -57,13 +59,14 @@ _[Link to the our preoject repositiory](https://github.com/eringrand/edavproj)_
 </section>
 
 <section>
-## Problems / Issues / Concerns
+## Problems / Issues / Concerns with the Data
 
-1. _Missing data:_ We loose a lot of data from schools that didn't report their scores.
+1. _Missing data:_ We lose a lot of data from schools that didn't report their scores.
 1. _Time:_ The data we're using come from vastly different years. 
 1. __ : 
 
 </section>
+
 
 <section>
 ## Data Columns
@@ -76,6 +79,7 @@ _Pulled some variables that we thought might be important._
 
 </section>
 
+
 <section>
 ## Data Mundging
 
@@ -84,9 +88,7 @@ _Pulled some variables that we thought might be important._
 1. Get locations
 
 </section>
-
-
-
+</section>
 
 
 <section>
@@ -97,6 +99,7 @@ _Pulled some variables that we thought might be important._
 
 </section>
 
+
 <section>
 ## Code Demonstration
 
@@ -105,7 +108,6 @@ _Pulled some variables that we thought might be important._
 1. Image? 
 
 </section>
-
 
 
 <section>
