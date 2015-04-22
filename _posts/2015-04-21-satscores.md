@@ -19,7 +19,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 1. What were our goals?  What questions did we seek to answer? 
 1. Where did we get our data? What are the problems with our data?
 1. What parts of the data were interesting?
-1. Some code Demonstration.
+1. Demonstration of out code.
 1. Discussion of our vizualitions and results. 
 1. What are the next steps?
 </section>
