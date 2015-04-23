@@ -104,7 +104,7 @@ _Pulled some variables that we thought might be important._
 
 
 <section>
-## Code Demonstration
+# Code Demonstration
 
 1. R code for joining tables
 1. R code for correlation 
@@ -114,7 +114,7 @@ _Pulled some variables that we thought might be important._
 
 
 <section>
-## Visualization
+# Visualization
 
 1. Link?
 1. Image? 
