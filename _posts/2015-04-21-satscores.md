@@ -22,6 +22,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 1. Demonstration of out code.
 1. Discussion of our vizualitions and results. 
 1. What are the next steps?
+
 </section>
 
 
