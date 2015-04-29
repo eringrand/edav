@@ -89,9 +89,8 @@ _Pulled some variables that we thought might be important._
 
 1. Join all the tabels together
 1. Normalize
-1. Get locations
 1. [Sample Code - joinng tables]()
-1. [Sample Code - ]() 
+1. [Sample Code - exploration plots]() 
 
 </section>
 
