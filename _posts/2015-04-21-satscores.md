@@ -125,6 +125,8 @@ _Kmeans cluster center assignments for the SAT scores._
 </section>
 
 <section>
+
+<section>
 ### Exploration of Environmental Effects on SAT Score
 
 ![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/boxplots.png)
@@ -137,4 +139,4 @@ _Kmeans cluster center assignments for the SAT scores._
 ![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/apclasses.png)
 ![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/avgsize.png)
 </section>
-
+</section>
