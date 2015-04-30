@@ -68,7 +68,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 
 1. _Missing data:_ We lose a lot of data from schools that didn't report their scores.
 1. _Time:_ The data we're using come from vastly different years.  
-1. _Aggregation:_ Aggrating the information in a way that makes the most sense. (Zipcodes? Neighborhoods? School Districts? Boroughs?)
+1. _Aggregation:_ We had trouble choosing how to aggregate the information in a way that made the most sense. (Zipcodes? Neighborhoods? School Districts? Boroughs?)
 
 </section>
 
@@ -88,7 +88,7 @@ _Pulled some variables that we thought might be important._
 <section>
 ## Tools
 
-1. For the data: R
+1. For the data and exploratory plots: R
 2. For the map: CartoDB
 3. For the survey visualization: Crossfilter
 
