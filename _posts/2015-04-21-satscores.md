@@ -16,7 +16,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 
 <section>
 
-## The plan:  
+## The plan:
 
 1. What were our goals?  What questions did we seek to answer? 
 1. Where did we get our data? What are the problems with our data?
@@ -31,7 +31,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 <section>
 <section>
 
-## Goals
+## Goals:
 1. Visualizing poverty and other SES metrics with Scholastic Performance Standards.
 1. Discover and display any correlations between assement data and community information. 
 
@@ -51,7 +51,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 <section>
 <section>
 
-## Data Sources 
+## Data Sources:
 
 1. [NYC OpenData SAT Scores 2012](https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4)
 1. [NYC OpenData DOE High School Directory 2014-2015](https://data.cityofnewyork.us/Education/DOE-High-School-Directory-2014-2015/n3p6-zve2)
@@ -64,7 +64,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 </section>
 
 <section>
-## Problems / Issues / Concerns with the Data
+## Problems / Issues / Concerns with the Data:
 
 1. _Missing data:_ We lose a lot of data from schools that didn't report their scores.
 1. _Time:_ The data we're using come from vastly different years.  
@@ -74,7 +74,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 
 
 <section>
-## Data Columns
+## Data Columns:
 
 _Pulled some variables that we thought might be important._
 
@@ -86,7 +86,7 @@ _Pulled some variables that we thought might be important._
 </section>
 
 <section>
-## Tools
+## Tools:
 
 1. For the data and exploratory plots: R
 2. For the map: CartoDB
@@ -95,7 +95,7 @@ _Pulled some variables that we thought might be important._
 </section>
 
 <section>
-## Data Munging
+## Data Munging:
 
 1. [Sample Code - Joinng tables](https://github.com/eringrand/edavproj/blob/master/scripts/join.R)
 1. [Sample Code - Exploration plots](https://github.com/eringrand/edavproj/blob/master/scripts/pairsplot.R) 
@@ -104,7 +104,7 @@ _Pulled some variables that we thought might be important._
 </section>
 
 <section>
-## Cluster Centers 
+## Cluster Centers:
 _Kmeans cluster center assignments for the SAT scores._
 
 ![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/table.png)
@@ -115,7 +115,7 @@ _Kmeans cluster center assignments for the SAT scores._
 
 
 <section>
-## Visualizations
+## Visualizations:
 
 1. [CartoDB Map](https://stephenra.cartodb.com/viz/128259f8-eedf-11e4-9692-0e018d66dc29/embed_map)
 1. [Exploration of Environmental Effects on SAT Score](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/boxplots.png)
@@ -127,20 +127,20 @@ _Kmeans cluster center assignments for the SAT scores._
 <section>
 
 <section>
-### Exploration of Environmental Effects on SAT Score
+### Exploration of Environmental Effects on SAT Score:
 
 ![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/boxplots.png)
 </section>
 
 <section>
 
-### Basic Correlation Fits
+### Basic Correlation Fits:
 
 ![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/apclasses.png)
 </section>
 
 <section>
-### Basic Correlation Fits
+### Basic Correlation Fits:
 
 ![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/avgsize.png)
 </section>
