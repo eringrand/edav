@@ -78,9 +78,9 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 
 _Pulled some variables that we thought might be important._
 
-1. SAT scores 
+1. SAT scores: critical reading, math, writing and total out of 1600 scale
 1. Avg Household Income
-1. school gender ratios, school class sizes
+1. School gender ratios, average class sizes
 1. Safety concerns
 
 </section>
@@ -97,9 +97,9 @@ _Pulled some variables that we thought might be important._
 <section>
 ## Data Munging
 
-1. [Sample Code - joinng tables]()
-1. [Sample Code - exploration plots]() 
-1. M? 
+1. [Sample Code - Joinng tables](https://github.com/eringrand/edavproj/blob/master/scripts/join.R)
+1. [Sample Code - Exploration plots](https://github.com/eringrand/edavproj/blob/master/scripts/pairsplot.R) 
+1. [Sample Code - Correlations](https://github.com/eringrand/edavproj/blob/master/scripts/correlation.R)
 
 </section>
 
