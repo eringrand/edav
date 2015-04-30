@@ -16,7 +16,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 
 <section>
 
-# The plan:  
+## The plan:  
 
 1. What were our goals?  What questions did we seek to answer? 
 1. Where did we get our data? What are the problems with our data?
@@ -31,7 +31,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 <section>
 <section>
 
-# Goals
+## Goals
 1. Visualizing poverty and other SES metrics with Scholastic Performance Standards.
 1. Discover and display any correlations between assement data and community information. 
 
@@ -51,7 +51,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 <section>
 <section>
 
-# Data Sources 
+## Data Sources 
 
 1. [NYC OpenData SAT Scores 2012](https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4)
 1. [NYC OpenData DOE High School Directory 2014-2015](https://data.cityofnewyork.us/Education/DOE-High-School-Directory-2014-2015/n3p6-zve2)
@@ -114,12 +114,12 @@ _Pulled some variables that we thought might be important._
 
 
 <section>
-# Visualization
+## Visualization
 
 1. Map
 1. Exploration of Environmental Effects on SAT Score
-1. Exploration of the Survery Questions
-1. Visualization of Important Survery Questions with SAT Scores
+1. [Exploration of the Survery Questions](https://github.com/eringrand/edavproj/blob/master/data/2013nycschoolsurvey/survey_analysis.Rmd)
+1. [Visualization of Important Survery Questions with SAT Scores](https://github.com/eringrand/edavproj/blob/master/crossfilter/index.html)
 
 </section>
 
