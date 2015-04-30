@@ -103,31 +103,27 @@ _Pulled some variables that we thought might be important._
 
 </section>
 
-
 <section>
 ## Tools
 
 1. For the data: R
 2. For the map: D3
+3. For the survey visualization: crossfilter
 
 </section>
 
 
 <section>
-# Code Demonstration
+## Exploration of Envioromental Effects on SAT Score
 
-1. R code for joining tables
-1. R code for correlation 
-1. Image? 
-
+![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/boxplots.png)
 </section>
-
 
 <section>
 # Visualization
 
-1. Link?
-1. Image? 
+1. Map
+1. Understanding the Survery 
 
 </section>
 
