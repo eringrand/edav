@@ -115,7 +115,7 @@ _Kmeans cluster center assignments for the SAT scores._
 
 
 <section>
-## Visualization
+## Visualizations
 
 1. [CartoDB Map](https://stephenra.cartodb.com/viz/128259f8-eedf-11e4-9692-0e018d66dc29/embed_map)
 1. [Exploration of Environmental Effects on SAT Score](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/boxplots.png)
