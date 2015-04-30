@@ -117,10 +117,10 @@ _Kmeans cluster center assignments for the SAT scores._
 <section>
 ## Visualization
 
-1. [Map]()
+1. [CartoDB Map](https://stephenra.cartodb.com/viz/128259f8-eedf-11e4-9692-0e018d66dc29/embed_map)
 1. [Exploration of Environmental Effects on SAT Score](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/boxplots.png)
 1. [Exploration of the Survery Questions](https://github.com/eringrand/edavproj/blob/master/data/2013nycschoolsurvey/survey_analysis.Rmd)
-1. [Visualization of Important Survery Questions with SAT Scores](https://github.com/eringrand/edavproj/blob/master/crossfilter/index.html)
+1. [Visualization of Important Survey Questions with SAT Scores](https://github.com/eringrand/edavproj/blob/master/crossfilter/index.html)
 
 </section>
 
