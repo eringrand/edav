@@ -59,7 +59,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 1. [Income by Neighborhood](http://furmancenter.org/research/sonychan/2013-state-of-new-york-citys-housing-and-neighborhoods-report)
 1. Class Sizes 2010-2011
 1. School Safety Report
-1. Neighborhood Shape File
+1. [Neighborhood Tabulation Areas Shape File](http://www.nyc.gov/html/dcp/html/bytes/dwn_nynta.shtml)
 
 </section>
 
