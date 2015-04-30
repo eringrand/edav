@@ -137,6 +137,11 @@ _Kmeans cluster center assignments for the SAT scores._
 ### Basic Correlation Fits
 
 ![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/apclasses.png)
+</section>
+
+<section>
+### Basic Correlation Fits
+
 ![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/avgsize.png)
 </section>
 </section>
