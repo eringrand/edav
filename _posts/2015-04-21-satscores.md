@@ -114,7 +114,7 @@ _Pulled some variables that we thought might be important._
 
 
 <section>
-## Exploration of Envioromental Effects on SAT Score
+### Exploration of Envioromental Effects on SAT Score
 
 ![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/boxplots.png)
 </section>
