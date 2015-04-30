@@ -39,7 +39,7 @@ _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 ## Questions to Answer: 
 1. Is there a correlation between SAT scores and other school information?
 1. How do the schools' performance map with poverty and income in New York City?
-1. Can we tell which schools are speciality schools on the map?
+1. How do the schools' performance relate to teachers', parents', and students' feeling about their experience with the school? 
 
 </section>
 </section>
@@ -83,14 +83,21 @@ _Pulled some variables that we thought might be important._
 
 </section>
 
+<section>
+## Tools
+
+1. For the data: R
+2. For the map: CartoDB
+3. For the survey visualization: Crossfilter
+
+</section>
 
 <section>
-## Data Mundging
+## Data Munging
 
-1. Join all the tabels together
-1. Normalize
 1. [Sample Code - joinng tables]()
 1. [Sample Code - exploration plots]() 
+1. M? 
 
 </section>
 
@@ -103,30 +110,22 @@ _Pulled some variables that we thought might be important._
 
 </section>
 
-<section>
-## Tools
-
-1. For the data: R
-2. For the map: D3
-3. For the survey visualization: crossfilter
-
-</section>
-
-
-<section>
-### Exploration of Envioromental Effects on SAT Score
-
-![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/boxplots.png)
-</section>
 
 <section>
 # Visualization
 
 1. Map
-1. Understanding the Survery 
+1. Exploration of Environmental Effects on SAT Score
+1. Exploration of the Survery Questions
+1. Visualization of Important Survery Questions with SAT Scores
 
 </section>
 
+<section>
+### Exploration of Environmental Effects on SAT Score
+
+![](https://raw.githubusercontent.com/eringrand/edavproj/master/slides/boxplots.png)
+</section>
 
 
 
