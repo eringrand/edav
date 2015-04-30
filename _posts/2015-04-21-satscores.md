@@ -8,7 +8,7 @@ tags: slides
 <section>
 
 # SAT Scores for High Schools in New York City
-![](http://www.gogeometry.com/gmat/word_cloud_sat_prep_stops_255_point_boost_ad.html)
+![](http://www.gogeometry.com/gmat/word_cloud_sat_255.gif)
 _[Link to the our project repositiory](https://github.com/eringrand/edavproj)_
 </section>
 
